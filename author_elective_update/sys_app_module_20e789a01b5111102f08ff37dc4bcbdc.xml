@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application/>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>NeedIt Module</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>incident</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-10 13:44:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>20e789a01b5111102f08ff37dc4bcbdc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Module</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_20e789a01b5111102f08ff37dc4bcbdc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-10 13:44:27</sys_updated_on>
+        <timeline_page/>
+        <title>NeedIt Module</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name>NeedIt Incidents</window_name>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>b380f6aadbadbb440b9d21c405961955</instance_id>
+        <instance_name>dev86675</instance_name>
+        <name>sys_app_module_20e789a01b5111102f08ff37dc4bcbdc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application/><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>NeedIt Module</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>incident</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-10 13:44:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>20e789a01b5111102f08ff37dc4bcbdc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt Module</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_20e789a01b5111102f08ff37dc4bcbdc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-10 13:44:27</sys_updated_on><timeline_page/><title>NeedIt Module</title><uncancelable>false</uncancelable><view_name/><window_name>NeedIt Incidents</window_name></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1540759681</payload_hash>
+        <record_name>NeedIt Module</record_name>
+        <reverted_from/>
+        <source>edcc38e41b1111102f08ff37dc4bcb3e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-10 14:06:08</sys_created_on>
+        <sys_id>7c0d05e41b5111102f08ff37dc4bcb62</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1828813b2bb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-10 14:06:08</sys_updated_on>
+        <type>Module</type>
+        <update_guid>530801a03e511110d5b8eeeef5974f84</update_guid>
+        <update_guid_history>530801a03e511110d5b8eeeef5974f84:1184445238,530801a03e511110d5b8eeeef5974f84:1184445238</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NeedIt Module">201d49e41b5111102f08ff37dc4bcb32</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-10 14:06:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>30d9ce3cb1f84bb49a8f58e87ffc8090</sys_id>
+        <sys_metadata>20e789a01b5111102f08ff37dc4bcbdc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Module</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_20e789a01b5111102f08ff37dc4bcbdc</sys_update_name>
+        <sys_update_version display_value="sys_app_module_20e789a01b5111102f08ff37dc4bcbdc">7c0d05e41b5111102f08ff37dc4bcb62</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-10 14:06:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
